@@ -74,5 +74,6 @@ export default new Router({
       component:PicturesList
     },
 
-  ]
+  ],
+  linkActiveClass: "mui-active"
 })
